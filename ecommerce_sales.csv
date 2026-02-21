@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Customer_ID,Region,Category,Product_Name,Quantity,Unit_Price,Discount,Payment_Method
+1001,2025-01-05,C001,East,Electronics,Wireless Mouse,2,599,0.05,UPI
+1002,2025-01-07,C002,West,Fashion,Men T-Shirt,3,799,0.1,Credit Card
+1003,2025-01-10,C003,North,Home & Kitchen,Pressure Cooker,1,2499,0.08,Debit Card
+1004,2025-01-15,C004,South,Electronics,Bluetooth Speaker,2,1499,0.07,COD
+1005,2025-01-20,C005,East,Fashion,Women Kurti,4,999,0.15,UPI
+1006,2025-02-02,C006,West,Electronics,Smart Watch,1,3999,0.05,Credit Card
+1007,2025-02-05,C007,North,Home & Kitchen,Air Fryer,1,6999,0.1,Debit Card
+1008,2025-02-11,C008,South,Fashion,Sneakers,2,2999,0.12,UPI
+1009,2025-02-18,C009,East,Electronics,Power Bank,5,1299,0.08,COD
+1010,2025-02-22,C010,West,Home & Kitchen,Electric Kettle,3,1599,0.05,UPI
+1011,2025-03-03,C011,North,Fashion,Jeans,2,1999,0.1,Credit Card
+1012,2025-03-07,C012,South,Electronics,Headphones,4,899,0.07,Debit Card
+1013,2025-03-12,C013,East,Home & Kitchen,Mixer Grinder,1,3499,0.06,UPI
+1014,2025-03-15,C014,West,Electronics,Laptop Stand,3,1299,0.05,COD
+1015,2025-03-20,C015,North,Fashion,Jacket,2,2499,0.12,UPI
+1016,2025-04-02,C016,South,Home & Kitchen,Water Purifier,1,8999,0.15,Credit Card
+1017,2025-04-05,C017,East,Electronics,Tablet,1,15999,0.1,Debit Card
+1018,2025-04-09,C018,West,Fashion,Handbag,2,2999,0.08,UPI
+1019,2025-04-14,C019,North,Electronics,LED Monitor,1,10999,0.07,COD
+1020,2025-04-20,C020,South,Home & Kitchen,Gas Stove,2,3999,0.05,UPI
+1021,2025-05-03,C021,East,Fashion,Saree,3,1999,0.1,Credit Card
+1022,2025-05-08,C022,West,Electronics,Keyboard,4,799,0.05,Debit Card
+1023,2025-05-12,C023,North,Home & Kitchen,Ceiling Fan,2,2499,0.08,UPI
+1024,2025-05-16,C024,South,Fashion,Sandals,3,1499,0.12,COD
+1025,2025-05-22,C025,East,Electronics,Smartphone,1,24999,0.1,UPI
+1026,2025-06-02,C026,West,Home & Kitchen,Microwave Oven,1,11999,0.15,Credit Card
+1027,2025-06-07,C027,North,Electronics,External HDD,2,4999,0.05,Debit Card
+1028,2025-06-10,C028,South,Fashion,Watch,2,3999,0.08,UPI
+1029,2025-06-18,C029,East,Home & Kitchen,Vacuum Cleaner,1,6999,0.1,COD
+1030,2025-06-25,C030,West,Electronics,Printer,1,8999,0.07,UPI
